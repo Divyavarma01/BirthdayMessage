@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+#result {
+    font-size: 18px;
+    font-weight: bold;
+}
